@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smooting: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+    font-size: 62.25%;
+}
+
+body {
+    font-size: 1.6rem;
+    background: #f8fafc;
+
+    height: 100vh;
+}
+ 
+main {
+    width: 80rem;
+    height: 69.2rem;
+}
